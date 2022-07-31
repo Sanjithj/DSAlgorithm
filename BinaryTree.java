@@ -14,12 +14,12 @@ public class BinaryTree {
 	            this.right = null;    
 	            }    
 	        }    
-	    //Represent the root of binary tree    
+	    //the root of binary tree    
 	    public Node root;    
 	    public BinaryTree(){    
 	        root = null;    
 	    }    
-	    //factorial() will calculate the factorial of given number    
+	    //calculate the factorial of given number    
 	    public int factorial(int num) {    
 	        int fact = 1;    
 	        if(num == 0)    
